@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'ChatLG'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_366B6157EFF8462CA065006BA206A651 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_105BFFC2FE504E23A42782A2C93D1E3A }}
