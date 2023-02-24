@@ -4,7 +4,7 @@ from flask import Flask, request, jsonify
 app = Flask(__name__)
 
 # Set up OpenAI API key
-openai.api_key = "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"
+openai.api_key = "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"
 
 # Define function to generate answer from OpenAI API
 def generate_answer(prompt):
